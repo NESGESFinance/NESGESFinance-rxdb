@@ -14,7 +14,7 @@
     "server": "pouchdb-server --host 0.0.0.0 -p 10101 -m -d /tmp/pouchdb-server/ -n true"
   },
   "dependencies": {
-    "@angular/common": "7.2.12",
+    "@angular/common": "20.3.28",
     "@angular/compiler": "7.2.12",
     "@angular/compiler-cli": "7.2.12",
     "@angular/core": "7.2.12",
